@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acceuil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div>
+            <li>
+                <a href="./contact.html">Me contacter</a>
+                <a href="./portfolio.html">Portfolio</a>
+                <a href="./competences.html">Compétences</a>
+                <a href="./presentation.html">Présentation</a>
+                <a>Accueil</a>
+            </li>
+        </div>
+    </nav>
+    <div class="main_div">
+        <div class="second_div">
+            <h2>Matiti</h2>
+            <h2>Enoch</h2>
+        </div>
+        <h3>Etudiant</h3>
+    </div>
+</body>
+</html>

@@ -1,0 +1,118 @@
+nav > div > li {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+nav > div {
+    border: solid;
+    border-color: #444 !important;
+    background-color: #7E78D2;
+}
+
+a {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #000000;
+}
+.etude {
+    font-size: 25px;
+    color: #000;
+    /* margin: 0; */
+}
+nav {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+body {
+    background-color: #ffeded;
+    background-image: url("https://www.rennes-business.com/uploads/sites/2/elementor/thumbs/Cybersecurite-serveurs_rennes-2-o9sh8xd5rfajd2j12zyuh0sxdwi7kbw6w2s3861i0g.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* height: 100vh; */
+    /* margin: 0; */
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.main_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.main_div_presentation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    align-items: flex-start;
+}
+.second_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #b4b4b4;
+}
+
+h2 {
+    font-size: 10vh;
+    margin: 10px;
+}
+
+h3 {
+    font-size: 5vh;
+    margin: 10px;
+}
+
+h4 {
+    font-size: 3vh;
+    /* margin-top: 10px; */
+    margin: 10px;
+}
+
+.remerciement_div {
+    font-size: 5vh;
+    margin: 10px;
+    border: solid;
+    border-radius: 15px;
+    background-color: #888;
+    color: #000 !important;
+}
+
+.contact_div {
+    font-size: 5vh;
+    margin: 10px;
+    border: solid;
+    border-radius: 15px;
+    background-color: #99CC99;
+    color: #000 !important;
+}
+
+.skills_div {
+    font-size: 5vh;
+    margin: 10px;
+    border: solid;
+    border-radius: 15px;
+    background-color: #c1dbc1;
+    color: #000 !important;
+    display: flex;
+    flex-direction: column;
+}
+
+.projects_div {
+    font-size: 5vh;
+    margin: 10px;
+    border: solid;
+    border-radius: 15px;
+    background-color: #99CC99;
+    color: #7b2222 !important;
+}
